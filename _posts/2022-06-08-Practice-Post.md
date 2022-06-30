@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Practice Post"
-categories: Practice
+categories: "Practice"
 tags:
 ---
 
 #Big Heading
-##Smaller heading 
+##Smaller heading
 ###Smaller heading
