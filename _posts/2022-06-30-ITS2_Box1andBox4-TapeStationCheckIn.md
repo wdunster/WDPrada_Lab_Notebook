@@ -1,0 +1,44 @@
+---
+layout: post
+title: "ITS2_Box1andBox4_TapeStation_CheckIn"
+categories: "ITS2" "PCR1" "Tape Station"
+tags:
+---
+
+
+
+Notes:
+Checking samples on the Tape Station to see if faint banding on gel images is just low concentration, but correctly amplified DNA
+
+Procedure
+Follow [Tape Station] (https://meschedl.github.io/meschedl/PPP-Lab-Resources/Protocols_and_Lab_Resources/DNA_Quality_Control/D1000_Tape_Protocol/) protocol for D1000
+
+Samples:
+- OFAV = *Orbicella faveolata*
+- OFRA = *Orbicella franksi*
+- S = Shallow
+- P = Deep
+
+| Species | Treatment | ID    | Quality on Gel | Tape ID |
+|---------|-----------|-------|----------------|---------|
+| OFAV    | S         | 352   | faint          | B1       |     |
+| OFAV    | S         | 357   | good           | C1      |
+| OFAV    | S         | 0HS3  | faint          | D1      |
+| OFAV    | S         | 9AZ5  | faint          | E1      |
+| OFAV    | S         | 9GT4  | good           | F1      |
+| OFAV    | S         | 0DW46 | faint          | G1      |
+| OFAV    | S         | 2DW40 | faint          | H2      |
+| OFAV    | S         | 2EV3  | faint          | A2      |
+| OFAV    | S         | 3EV30 | faint          | B2      |
+| OFAV    | S         | 3EV34 | faint          | C2      |
+| OFAV    | S         | 2EV44 | faint          | D2      |
+| OFAV    | S         | 2JQ8  | faint          | E2      |
+| OFAV    | S         | 9GT46 | good           | F2      |
+| OFAV    | S         | 4DW11 | good           | G2      |
+| OFAV    | S         | 4EV14 | faint          | H2      |
+
+
+Tape Map:
+
+ <a href="https://raw.githubusercontent.com/wdunster/WDPrada_Lab_Notebook/master/images/ITS2_TapeStationCheckIn.pdf">Tape Map</a>
+ 
