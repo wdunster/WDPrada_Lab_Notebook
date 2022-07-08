@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITS2_Box1andBox4_TapeStation_CheckIn"
+title: ITS2_Box1andBox4_TapeStation_CheckIn
 categories: "ITS2" "PCR1" "Tape Station"
 tags:
 ---
@@ -41,4 +41,3 @@ Samples:
 Tape Map:
 
  <a href="https://raw.githubusercontent.com/wdunster/WDPrada_Lab_Notebook/master/images/ITS2_TapeStationCheckIn.pdf">Tape Map</a>
- 
