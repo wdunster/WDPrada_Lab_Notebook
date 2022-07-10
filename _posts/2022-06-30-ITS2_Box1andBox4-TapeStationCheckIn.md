@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ITS2_Box1andBox4_TapeStation_CheckIn
-categories: "ITS2" "PCR1" "Tape Station"
+title: "ITS2_Box1and4_TapeStation"
+categories: "TapeStation" "ITS2"
 tags:
 ---
 
@@ -21,7 +21,7 @@ Samples:
 
 | Species | Treatment | ID    | Quality on Gel | Tape ID |
 |---------|-----------|-------|----------------|---------|
-| OFAV    | S         | 352   | faint          | B1       |     |
+| OFAV    | S         | 352   | faint          | B1      |
 | OFAV    | S         | 357   | good           | C1      |
 | OFAV    | S         | 0HS3  | faint          | D1      |
 | OFAV    | S         | 9AZ5  | faint          | E1      |
