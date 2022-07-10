@@ -38,6 +38,4 @@ Samples:
 | OFAV    | S         | 4EV14 | faint          | H2      |
 
 
-Tape Map:
-
- <a href="https://raw.githubusercontent.com/wdunster/WDPrada_Lab_Notebook/master/images/ITS2_TapeStationCheckIn.pdf">Tape Map</a>
+[Tape Station Data](https://wdunster.github.io/wdunster/WDPrada_Lab_Notebook/images/ITS2_TapeStationCheckIn-1/)
