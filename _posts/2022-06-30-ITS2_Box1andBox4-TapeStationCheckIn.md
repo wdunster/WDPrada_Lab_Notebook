@@ -11,7 +11,7 @@ Notes:
 Checking samples on the Tape Station to see if faint banding on gel images is just low concentration, but correctly amplified DNA
 
 Procedure
-Follow [Tape Station](https://meschedl.github.io/meschedl/PPP-Lab-Resources/Protocols_and_Lab_Resources/DNA_Quality_Control/D1000_Tape_Protocol/) protocol for D1000
+Follow [Tape Station](https://meschedl.github.io/meschedl/PPP-Lab-Resources/Protocols_and_Lab_Resources/DNA_Quality_Control/D1000_Tape_Protocol) protocol for D1000
 
 Samples:
 - OFAV = *Orbicella faveolata*
@@ -38,4 +38,4 @@ Samples:
 | OFAV    | S         | 4EV14 | faint          | H2      |
 
 
-[Tape Station Data](https://wdunster.github.io/wdunster/WDPrada_Lab_Notebook/images/ITS2_TapeStationCheckIn-1.pdf/)
+[Tape Station Data](https://wdunster.github.io/wdunster/WDPrada_Lab_Notebook/images/ITS2_TapeStationCheckIn-1.pdf)
