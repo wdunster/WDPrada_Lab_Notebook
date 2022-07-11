@@ -6,6 +6,10 @@ tags:
 ---
 
 
+
+
+
+
 Notes:
 Checking samples on the Tape Station to see if faint banding on gel images is just low concentration, but correctly amplified DNA
 
