@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "ITS2_Box1and4_TapeStation"
-categories: Tape Station ITS2
+categories: TapeStation ITS2
 tags:
 ---
-
 
 
 
