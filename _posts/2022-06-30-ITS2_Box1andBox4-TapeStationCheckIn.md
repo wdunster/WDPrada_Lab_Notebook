@@ -5,15 +5,11 @@ categories: TapeStation ITS2
 tags:
 ---
 
+Tape Station Check-In for precise base pair count of amplicons
 
 
+[Protocol for D1000](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/D1000_Tape_Protocol.md)
 
-
-Notes:
-Checking samples on the Tape Station to see if faint banding on gel images is just low concentration, but correctly amplified DNA
-
-Procedure
-Follow [Tape Station](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/D1000_Tape_Protocol.md) protocol for D1000
 
 Samples:
 - OFAV = *Orbicella faveolata*
