@@ -30,6 +30,22 @@ tags:
 
 
 ## <a name="log"></a> **Daily Logs**
+### Oct 19
+- 8:00 am - 4:30 pm 
+- QC_WGS extraiton 3
+- The extraction went well with the new modification. I am going to leave them to incubate for 5 hrs instead of 3.5 tomorrow and hope for higher yields of DNA. I am still seeing an avg 10 ng/uL and ideally would like 15-20 ng/uL. The protocol gets smoother every time though!
+
+### Oct 17
+- QC_WGS Extraction 2
+
+### OCT 16 
+- QC_WGS Extraction 2 prep 
+
+### Oct 15
+- QC_WGS extraction 1
+
+### Oct 14 
+- QC_WGS Extraction 1 prep 
 
 ### Oct 12
 - 8:00am - 4:00pm
