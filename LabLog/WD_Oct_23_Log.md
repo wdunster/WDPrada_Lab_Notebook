@@ -30,9 +30,16 @@ tags:
 
 
 ## <a name="log"></a> **Daily Logs**
+### Oct 20
+- 8:00am - 4:30pm
+- QC_WGS extraction 4. I did not finish this extraction because I made mistake that resulted in terminating the extraction
+- Created documents for freezer maintenance and reviewed freezer manuals for instructions
+- Finished QC_WGS cryovial boxes
+
+
 ### Oct 19
 - 8:00 am - 4:30 pm 
-- QC_WGS extraiton 3
+- QC_WGS extraction 3
 - The extraction went well with the new modification. I am going to leave them to incubate for 5 hrs instead of 3.5 tomorrow and hope for higher yields of DNA. I am still seeing an avg 10 ng/uL and ideally would like 15-20 ng/uL. The protocol gets smoother every time though!
 
 ### Oct 17
