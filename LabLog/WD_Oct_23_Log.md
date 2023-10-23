@@ -30,6 +30,31 @@ tags:
 
 
 ## <a name="log"></a> **Daily Logs**
+
+### Oct 23
+- 8:00am - 6:30 pm
+- TL_RI23 AAUS quardat sampling 
+- Octo_Restoration coding 
+    - updated figures 1 and 2 
+    - Chi-sqr analysis of attachement
+    - Graphed nails linear extension 
+- Planning extractions for the week 
+    - Tuesday
+        - extract BVI 1-6 for DS and DMSO
+        - 13 samples total
+        - Timing
+            - start 8am  
+            - incubating by 9am 
+            - 9-2 incubate (5 hrs)
+            - Extract 2-3ish pm 
+    - Thursday
+        - extract BVI 7-12 DS and DMSO
+        - 13 samples
+        - Timing
+            - start 7am 
+            - incubating 8-1pm (5 hrs)
+            - extract 1-3pm 
+
 ### Oct 20
 - 8:00am - 4:30pm
 - QC_WGS extraction 4. I did not finish this extraction because I made mistake that resulted in terminating the extraction
