@@ -31,10 +31,19 @@ tags:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Oct 26 
+- 8:00 am - 4:00pm 
+- Extraction 6 for BVI-10 thro BVI-13
+    - Extractions were largely successful with all samples besides two having good qbit values
+    - I think I used to large of pieces of tissue
+    - The protocol is moving smoother each time which is exciting
+- Worked on lab inventory and mapping out our spaces and equipment layout
+- Arranged for Hazardous Waste removal of chemical fume hood SAA
+
+
 ### Oct 24
 - 8:00am - 5:00pm 
 - Extraction 5 for BVI-1 through BVI-6
-
 
 ### Oct 23
 - 8:00am - 6:30 pm
