@@ -31,6 +31,11 @@ tags:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Oct 24
+- 8:00am - 5:00pm 
+- Extraction 5 for BVI-1 through BVI-6
+
+
 ### Oct 23
 - 8:00am - 6:30 pm
 - TL_RI23 AAUS quardat sampling 
