@@ -31,6 +31,17 @@ tags:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Oct 30
+- 8:00am to 5:00pm
+- QC_WGS extraction 7 for BVI-14 thro BVI-17
+- Aliquotted reagents for Nextera Library Prep (Tris, Molec Water, Beads, NT)
+- 
+
+### Oct 27
+- 8:00am to 10:30am and 12:00pm to 5:00pm
+- QC_WGS Diltuion 1 for BVI-1 thro BVI-13
+
+
 ### Oct 26 
 - 8:00 am - 4:00pm 
 - Extraction 6 for BVI-10 thro BVI-13
