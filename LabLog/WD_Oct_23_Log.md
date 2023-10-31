@@ -31,11 +31,32 @@ tags:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Oct 31
+- 8:00am - 4:00pm (8hrs)
+- Octo_restoration coding 
+    - 
+- Prada Meeting Notes and Things to do Next Week: 
+    - 16s
+        - download sequences 
+        - Run QC report
+        - Trim adapters (Janet left them on so we coudl look for primer dimer)
+        - Blast to match 16s data to see if bacterial sequences 
+        - Re-read the whole plate because Janet found pooling issues (different concentrations of samples) so the DNA concentration values from the first plate read must not be accurate. However we are going to wait to do this until we hear back from GenoHub
+    - QC_WGS
+        - Dilute all extractions in Tris. Carlos believes it will be easier to dilute to 5 ng/ul and then make a dilution from that. 
+        - Chat with Matias about Tape Station protocol
+        - Keep going with extractions and try to scale up the process. Leave the Florida samples for last because there is such a small amount of tissue from the non-lethal sampling techniques
+        - Send carlos an Amazon link for a large plastic bin to keep WC_WGS boxes in. 
+    - Octo_Rest
+        - G-test of independence and post hoc for dead samples
+        - Expect to see an even ratio 
+        - Compare nail  and no nail survival using a Chi-Sqr
+
+
 ### Oct 30
 - 8:00am to 5:00pm
 - QC_WGS extraction 7 for BVI-14 thro BVI-17
 - Aliquotted reagents for Nextera Library Prep (Tris, Molec Water, Beads, NT)
-- 
 
 ### Oct 27
 - 8:00am to 10:30am and 12:00pm to 5:00pm
