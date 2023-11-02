@@ -5,15 +5,14 @@ categories: Log
 tags: 
 ---
 
-# Oct. '23 Lab Log
+# Nov. '23 Lab Log
 
 ## Contents:
-- [**November Goals**][#goal]    
+- [**November Goals**](#goals)  
 - [**Daily Logs**](#log)     
 
 
-
-## <a name="goal"></a> **November Goals**
+## <a name="goals"></a> **November Goals**
 
 Oct goals I finished: 
 - Started QC_WGS extractions 

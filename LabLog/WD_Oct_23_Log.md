@@ -8,7 +8,7 @@ tags:
 # Oct. '23 Lab Log
 
 ## Contents:
-- [**October Goals**][#goal]    
+- [**October Goals**](#goal)    
 - [**Daily Logs**](#log)     
 
 
