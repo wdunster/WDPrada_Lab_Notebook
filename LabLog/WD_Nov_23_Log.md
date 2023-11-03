@@ -48,6 +48,11 @@ Nov goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Nov 03
+- Library preparation for BVI-1 thro BVI-8 with Matias
+- Library info can found in QC_WGS_Library_Prep log
+- BVI-3 and BVI-5 did not amplify, all other samples had a good (> 5ng/uL) amplification 
+
 ### Nov 02 
 - Dive TL_RI23  
 - Diluted QC_WGS Extraction 7 
