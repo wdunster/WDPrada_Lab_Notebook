@@ -48,6 +48,28 @@ Nov goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Nov 20 
+- Organized all lab logs and my planner 
+- QC_WGS quantified samples Diana had stored in the -20 that she extracted in 2017 19
+- 
+
+### Nov 16 
+- Ran taxonomy on QUIME to output the taxonomy barplots. It looks like we have bacterial seq which is super exciting! Now I need to go back and do the same thing for the whole dataset (becuase I was working with a small subset previously) and concatenate the two sets of seq I have for each sample (genohub seq every sample twice in order to increase reading depth)
+
+### Nov 15 
+- I know I don't work on Wed., but with the Fri. deadline approaching for raker_16s_genohub I coded for 4-5 hours. I finally got metadata and data to upload to QUIME and ran the first part of the program. 
+
+### Nov 14 
+- Downloaded sequences directly from Genohub to check if CR copied the wrong seqs
+
+### Nov 13
+- Today was supposed to be a payed holiday however TL needed divers and the raker_16s project needed to move forward so I worked today and took Friday Nov 17 off instead
+- Diving for TL_RI23. This was our last dive of the season and we did quadrats and measured fragment size using calipers in the 25-35 ft range. 
+- Struggled with uploading metadata to QUIME 
+
+### Nov 10 
+- Raker_16s sequences came back from genohub and this started the rush to quantify them. Genohub gives 10 days to claim the data. I ran QC reports on Genohub and Janets samples. 
+
 ### Nov 09
 - Library prep for 8 samples. Matias came and sat while I ran through the protocol but I didn't really have any questions. I feel confident in my ability to do it on my own moving forawrd. 
 - Diving with Taylor
