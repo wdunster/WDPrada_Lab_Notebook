@@ -48,6 +48,20 @@ Nov goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Nov 21
+- Completed MX QC_WGS box and started labeling boxes for KY and CU
+- Weekly Prada meeting
+    - Raker_16s
+        - Done for now -- CR will take point from here
+        - The second set of seq for each sample is a single end read with only about 100 reads so were jsut going to ditch it 
+    - QC_WGS 
+        - Make new boxes (x2 35 samples) for Mexico (MX), Caymen Islands (KY), and Cuba (CU)
+        - Add PR to sample name for all of Diana's samples 
+        - Continue with libraries. We want ~15 libraries per location which means I need to clean and put ~20 samples through lib prep 
+        - Buy open top baskets from Amazon
+        - Finish BVI extractions and add a few samples from FL into it
+
+
 ### Nov 20 
 - Organized all lab logs and my planner 
 - QC_WGS quantified samples Diana had stored in the -20 that she extracted in 2017 19
