@@ -48,6 +48,22 @@ Nov goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Nov 28 
+- QC_WGS extraction 10 - see extraction log for results. The extraction went well but I didn't see any advantage to the overnight incubation so I think I will continue with a few hour incubation 
+- Organized post-pcr side of lab 
+- Prada meeting
+    - QC_WGS
+        - Need to do extraction from FL samples on Thurs this week because the contract group wants to know if we can get good DNA from 3 locations by the end of the year
+        - Aiming for 15 libraries from each location 
+    - Octo_rest
+        - Keep writing. Make sure to write in an engaging, active voice that will likely be in the first person. You want to tell a story
+        - Revise results, methods, and intro to change writing style 
+        - Start writing discussion and researching connections between data and real world 
+
+### Nov 27
+- Finished KY and CU boxes for QC_WGS
+- Prepped QC_WGS extraction 10 for an overnight incubation 
+
 ### Nov 21
 - Completed MX QC_WGS box and started labeling boxes for KY and CU
 - Weekly Prada meeting
@@ -65,7 +81,7 @@ Nov goals:
 ### Nov 20 
 - Organized all lab logs and my planner 
 - QC_WGS quantified samples Diana had stored in the -20 that she extracted in 2017 19
-- 
+ 
 
 ### Nov 16 
 - Ran taxonomy on QUIME to output the taxonomy barplots. It looks like we have bacterial seq which is super exciting! Now I need to go back and do the same thing for the whole dataset (becuase I was working with a small subset previously) and concatenate the two sets of seq I have for each sample (genohub seq every sample twice in order to increase reading depth)
