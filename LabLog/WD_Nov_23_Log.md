@@ -48,6 +48,16 @@ Nov goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+### Nov 30 
+- QC_WGS extraction 11
+- Labeled tubes for TL_AP
+    - Moving forward if I need things to do I can start to process all TL_AP Round 1 (BC) samples
+    - Changes to aliquot protocol 
+        - Only 3 tubes 
+        - Only DI 
+        - 1 mL to Sym PTAC and CHL tubes. Then move both supernatans to the Host PTAC tube
+    - If i need addional things to do I can also help process Matias's samples once Hana-Lei has finished airbrushing 
+
 ### Nov 28 
 - QC_WGS extraction 10 - see extraction log for results. The extraction went well but I didn't see any advantage to the overnight incubation so I think I will continue with a few hour incubation 
 - Organized post-pcr side of lab 
