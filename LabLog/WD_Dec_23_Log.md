@@ -14,39 +14,55 @@ tags:
 
 ## <a name="goals"></a> **November Goals**
 
-Oct goals I finished: 
-- Started QC_WGS extractions 
-- Inventory the lab 
-    - Pipette tips 
-    - Mollecular equipment 
-
-Oct goals I did not finish:
-- Finish TL ash free dry weight for 3 sps in TL_PR21
-- Octocoral restoration paper 
-    - Finish creating figures 
-    - Write rough draft of the discussion section 
-- Inventory
-    - Organismal equipment 
-
-Nov goals: 
-- QC_WGS
-    - Library prep 8-10 samples 
-    - Send to sequencing with Matias 
-    - Finish BVI extractions and work to scale up extraction to 24 samples
+Nov goals I finished: 
+- QC_WGS 
+    - Lib prepped 11 samples  
+    - Finished BVI extractions 
+    - Started FL extractions 
+    - Started PR sample clean up
 - Octo_Rest
-    - Finish G test 
-    - Finalize figures
-    - Rough draft of discussion 
-- Ofav 16s
-    - Downalod sequences from Janet
-    - Blast against bacteria genomes to see if we are getting 16s reads
-    - If GenoHub troubleshooting does not work, re plate read and dilute all plates and send to Janet for seq
+    - I finished all statistics and my figues are finalized for now 
+- OFAV_16s 
+    - I finsihed all my work for this project. I did a lot of coding using QUIME2 and fixed all errors with uploading seqs and meta data to the platform. Cassie is now heading this project
+- Lab 
+    - Inventory Prada pre PCR fridge 
+    - Created freezer worksheets and reminder system on Slack to create a biweekly cleaning schedule for all freezers 
+
+Nov goals I did not finish:
+- Finish TL ash free dry weight for 3 sps in TL_PR21
 - Lab
-    - Fix PPP Freezer worksheets
-    - Inventroy organismal lab equipment 
-    - Inventory Prada fridges and freezers 
+    - Inventory Prada freezers and post PCR fridge 
+    - Inventory Organismal side of the lab 
+
+New goals for Dec 
+- QC_WGS 
+    - have libraries for 15 samples from BVI, FL, and PR-F. These will hopefully be sent to sequencing by the end of Dec and if not in early Jan
+- Octo_Rest
+    - Writing!!
+    - Rough draft for the whole paper. Carlos made edits and suggestions about changing the language and sentence structure
+- Lab 
+    - Inventory Prada freezers and post PCR fridges 
+    - Inventory Organismal side of the lab
+
 
 ## <a name="log"></a> **Daily Logs**
+
+### Dec 4 
+- QC_WGS extraction 13 
+- Clean up for 16 Puerto Rico - Fajardo samples 
+- Dilution for tomorrows lib prep 
+- Prada Meeting
+    - QC_WGS
+        - Lib  prep tomorrow 
+            - FL clean 
+            - FL not clean 
+            - PR all (F1 and F2 are most important)
+            - BVI remaining 
+        - Note which samples have mantle from now on 
+        - Goal = 10 FL samples extracted by next Tuesday 
+    - Personal 
+        - Bring up attending Benthics in Jan/Feb 
+        - Maybe float the Astrangia conference idea again 
 
 ### Dec 1 
 - QC_WGS extraction 12 
