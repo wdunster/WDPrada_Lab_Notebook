@@ -47,6 +47,9 @@ New goals for Dec
 
 ## <a name="log"></a> **Daily Logs**
 
+### Dec 5 
+- QC_WGS lib prep 3 
+
 ### Dec 4 
 - QC_WGS extraction 13 
 - Clean up for 16 Puerto Rico - Fajardo samples 
