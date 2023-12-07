@@ -47,6 +47,10 @@ New goals for Dec
 
 ## <a name="log"></a> **Daily Logs**
 
+### Dec 7 
+- QC_WGS PR-F sample cleaning 
+- Cleaned lab spaces and tools
+
 ### Dec 5 
 - QC_WGS lib prep 3 
 
