@@ -47,6 +47,37 @@ New goals for Dec
 
 ## <a name="log"></a> **Daily Logs**
 
+### Dec 18
+- Extraction 17 NI - these samples work much better than FL or BVI. I will scale up the extraction and do 15 tomorrow
+- Labeled all A treatment tubes for TLAP
+
+### Dec 14
+- Extraction 16 
+
+### Dec 12
+- Octo_rest writing 
+- Moved samples from Zhang lab back to the Stirling -80
+- Prada meeting
+    - QC_WGS
+        - Lib prep all locations from PR
+        - DEADLINE = Lib prepared and pooled by 1/15/2024 (PR, BVI, FL, NI)
+        - Personal timeline for this project 
+            - Week 12/11 Finish FL extractions and clean uncleaned samples
+            - Week 12/18 Finish NI extractions
+            - Week 12/25 off for Holiday
+            - Week 1/1 unsure 
+            - Week 1/8 Finish Lib prep for FL (new), PR (FI and new loc), BVI (fails), NI (all) samples
+    - Octo_rest 
+        - Just keep writing - I want a full draft by Jan
+    - Lab 
+        - New Bruinswick -80 inventory 
+        - Post PCR clean our and inventory 
+        - Chemical inventory 
+
+
+### Dec 11
+- QC_WGS FL extraction 16. This went horribly with only 6/21 samples working. I think it might be the RNA Later or the quality of the tissue that FL sent us. Once I had the chloroform, instead of seperating into a distinct aqueous and organic layer, the extraction remains as one sticky mucus layer
+
 ### Dec 7 
 - QC_WGS PR-F sample cleaning 
 - Cleaned lab spaces and tools
