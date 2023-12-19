@@ -47,6 +47,10 @@ New goals for Dec
 
 ## <a name="log"></a> **Daily Logs**
 
+### Dec 19
+- Extraction 18 NI
+- Writing for octo_rest 
+
 ### Dec 18
 - Extraction 17 NI - these samples work much better than FL or BVI. I will scale up the extraction and do 15 tomorrow
 - Labeled all A treatment tubes for TLAP
