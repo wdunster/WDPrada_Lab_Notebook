@@ -39,8 +39,15 @@ Jan goals:
 
 ## <a name="goals"></a> **Daily Logs**
 
+### Jan 09 
+- QC_WGS organized sample manifest
+
+### Jan 08
+- QC_WGS Lib prep 6 redo of all samples that had failed first lib prep 
+- QC_WGS Tape station for 12 samples to determine bp length 
+
 ### Jan 03
-- Lib prep for 24 QC_WGS samples
+- QC_WGS Lib prep 5 for 24 QC_WGS samples
 - At this point I have: 
     13 BVI 
     11 PR-F
@@ -49,7 +56,7 @@ Jan goals:
     6 PR-other  
 
 ### Jan 02
-- Lib prep for 32 QC_WGS samples 
+- Lib prep 4 for 32 QC_WGS samples 
 
 
 
