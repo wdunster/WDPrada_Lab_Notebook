@@ -39,6 +39,31 @@ Jan goals:
 
 ## <a name="goals"></a> **Daily Logs**
 
+## Jan 19
+
+
+## Jan 18
+- MGPR21 tubes labeled for 1a-OFAVPS and 2a-OFAVPP
+- MGPR21 aliquot for 2a-OFAVPP
+- Organized weekly reading
+
+## Jan 16
+- QC_WGS pooled libraries into 2 pools (A = [Lib] > 6; B = [Lib] < 6) 
+- Labeled tubes for MGPR21
+
+## Jan 15
+- Holiday
+- Created Genohub sample manifest
+
+## Jan 12
+- Finished a rough draft of octo_rest manuscript 
+- Read Lou et al. 2020 -- about lcWGS proccess, pros, and analysis 
+- Worked from home
+
+## Jan 11
+- Sym couts for TL-AP
+- Continued to organize sample manifest for seq
+
 ### Jan 09 
 - QC_WGS organized sample manifest
 
