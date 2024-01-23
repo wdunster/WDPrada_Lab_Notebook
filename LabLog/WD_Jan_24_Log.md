@@ -39,8 +39,34 @@ Jan goals:
 
 ## <a name="goals"></a> **Daily Logs**
 
-## Jan 19
+## Jan 23 
+- TLAP read Sharp et al 2017 to prep for TL manuscript edits
+- Searched for TLPR21 host-PTAC redo samples and created a new box for them 
+- Prepped sheets for TLPR21 protein redo as a practice for MGPR21
 
+Prada Meeting Notes: 
+- Meeting time moved to 10am 
+- QC_WGS
+    - Send plastic bin link to Carlos
+    - Finish reading papers from Matias about lcWGS
+    - Read about Fastp
+    - Schedule a meeting with Matias to learn about Staks and dDocent
+- Octo_rest
+    - Journal to format for = Marine Ecology or Frotiers (ideally Front)
+    - Add predation and positive growth to the paper 
+    - Message Carlos at the begining of next week to edit the manuscript 
+- MGPR21
+    - Continue with protein assays 
+
+
+## Jan 22 
+- MGPR21 lableing tubes 
+- MGPR21 aliquot for 3 treatments 
+- Octo_rest shipped samples to genohub 
+
+## Jan 19
+- MGPR21 labeled tubes 
+- MGPR21 aliquot for 2 treatments 
 
 ## Jan 18
 - MGPR21 tubes labeled for 1a-OFAVPS and 2a-OFAVPP
