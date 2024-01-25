@@ -39,6 +39,16 @@ Jan goals:
 
 ## <a name="goals"></a> **Daily Logs**
 
+## Jan 25
+- TLPR21 Protein redo assay for 8 samples. This served as a practice run for the protein assay
+  Things to note: 
+    - The plate reader doe not have to input a plate map
+    - BSA reagent A is the large bottle and reagent B is the small blue bottle 
+    - After recieving the plate reader info you download a txt file and upload this to the Rscript TL provided 
+- Purchase orders for eppendorf centrifuge lid seal 
+- Cleaned all -80*C freezers 
+- JP Pop Gen class 
+
 ## Jan 23 
 - TLAP read Sharp et al 2017 to prep for TL manuscript edits
 - Searched for TLPR21 host-PTAC redo samples and created a new box for them 
