@@ -29,15 +29,24 @@ Dec goals I did not finish:
 
 Jan goals: 
 - QC_WGS
-    - Libraries ready for sequecning by 01/15
-    - Start lookking at the code you will need for these sequences and prep an RMD file
+    - [x] Libraries ready for sequecning by 01/15
+    - [ ] Start lookking at the code you will need for these sequences and prep an RMD file
 - Octo_Rest
-    - Have a finished product for Carlos to edit by 01/09
+    - [x] Have a finished product for Carlos to edit by 01/09
 - Lab 
     - Inventory post PCR freezers
     - Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
 ## <a name="goals"></a> **Daily Logs**
+
+## Jan 29
+- QC_WGS extraction 19 
+    - Results were good and all but 2 samples had concentations around 10+ ng/uL with some samples as high as 30 ng/uL 
+    - I did a 5 hr incubation and larger tissue segments than with the original extractions for this project 
+- Reading for pop gen 
+
+## Jan 26
+- Reading for TLAP edits next week  
 
 ## Jan 25
 - TLPR21 Protein redo assay for 8 samples. This served as a practice run for the protein assay
