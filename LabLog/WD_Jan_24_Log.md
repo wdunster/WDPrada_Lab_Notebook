@@ -39,6 +39,11 @@ Jan goals:
 
 ## <a name="goals"></a> **Daily Logs**
 
+## Jan 30 
+- Edits for TLAP
+    - Do some redaing to fill in holes 
+    - Modeling questions 
+
 ## Jan 29
 - QC_WGS extraction 19 
     - Results were good and all but 2 samples had concentations around 10+ ng/uL with some samples as high as 30 ng/uL 
