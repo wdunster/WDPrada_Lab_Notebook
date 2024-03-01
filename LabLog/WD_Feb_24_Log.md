@@ -40,13 +40,35 @@ Feb goals:
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
 ## <a name="goals"></a> **Daily Logs**
-## Feb 20 
-- QC_WGS Submitted batch job 303626 - dDocent test run 
-- 
+
+## Feb 29
+- MGPR21 2 protein assays 
+- Fixed protein plate maps because I did not make them in duplicate form 
+- octo_rest writing 
+
+## Feb 27
+- Writing for octo_rest 
+- Prada lab meeting 
+- Prada weekly meeting 
+    - QC_WGS
+        - Finish extractions for HO and BZ
+        - Run dDocent with the published mitochondrial genome mtDNA as a reference genome to see if we got conch reads 
+        - Take some of the trimmed fastq files --> FASTA files --> create a bash script to randomly select 10000 reads from 10-12 samples --> Blast against NCBI database
+        - Re run dDocent with 2-3 individuals from every pop and build a pseudoreference genome 
+    - Octo_rest
+        - Cement and epoxy in the discussion 
+        - Include pics of corals 
+        - Send to Jack to edit by the end of this week 
+    - MGPR21
+        - Finish proteins by the end of next week (8/3/24)
+        - Start looking at chlorophyll protocols so this can get done quicly 
 
 ## Feb 26
 - QC_WGS extraction for 15 HO_ samples. The extraction went well with a mix of resutls from 30-300 ng/uL. See [extraction log](https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md) for details. 
 - Finished creating platemaps for MGPR21 protein assays. I will start working on these on Thursday and Friday this week. 
+
+## Feb 20 
+- QC_WGS Submitted batch job 303626 - dDocent test run 
 
 ## Feb 6 
 - Lab meeting - Juliane presents 
