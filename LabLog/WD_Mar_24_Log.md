@@ -48,6 +48,10 @@ March goals:
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
+## Mar 4
+- QC_WGS [extraction 21](https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md) 
+- Octo_rest writing
+
 ## Mar 1 
 - MGPR21 4 protein assays 
 - Organized samples and platemaps for easier future work 
@@ -55,4 +59,4 @@ March goals:
     - upload mtDNA FASTA file from NCBI to the cluster 
     - when I already have a ref genome assembly = no in the dDocent .sh file 
     - less_ command allows you to view compressed files such as fastq.gz 
-  
+
