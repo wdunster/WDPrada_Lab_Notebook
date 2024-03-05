@@ -48,6 +48,21 @@ March goals:
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
+## Mar 5 
+- Prada weekly meeting
+    - QC_WGS 
+        - work through mtDNA using dDocent 
+        - Carlos can teach me how to do each part manually if I have everything prepped for next week 
+    - RIDEM_WFlounder
+        - 5 fin clips in the chest freezer. We need to know if DNA can be extracted successfully for libraries by the end of the month
+        - Use whole fin 
+        - Try homogenizing with ceramic bead tubes 
+        - Use Zymo Quick DNA Miniprep kit 
+    - Mentoring 
+        - Be very specific 
+        - Make sure you are the one giving info so there is a direct pnt of contact 
+- Octo_rest edits, writing, fixing figures. I sent a new draft of JG for edits. I need to fix test size on a few graphs
+
 ## Mar 4
 - QC_WGS [extraction 21](https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md) 
 - Octo_rest writing
