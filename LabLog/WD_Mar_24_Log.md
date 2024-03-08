@@ -48,6 +48,14 @@ March goals:
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
+## Mar 8 
+- 5 plates for MGPR21 protein assays 
+- Shadowed TL for CHL assay 
+- Disposed of lab hazardous waste   
+
+## Mar 7
+- Read Zymo mini prep kit and nucleo spin soil kit directions
+
 ## Mar 5 
 - Prada weekly meeting
     - QC_WGS 
