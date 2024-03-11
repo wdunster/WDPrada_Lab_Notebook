@@ -31,22 +31,29 @@ Feb goals I finished:
 
 March goals: 
 - QC_WGS
-    - [] Finish BZ and HO extractions
+    - [x] Finish BZ and HO extractions
     - [] Run dDocent with mtDNA as ref genome
     - [] Run dDocent with indv from all sub populations
 - Octo_Rest
-    - [] Submit draft to Jack
+    - [x] Submit draft to Jack
     - [] Submit draft to review for a journal?
 - TLAP
     - [] Help with modeling 
     - [] Continue reading to fill in gaps in the paper 
+    - [] Submit an abstract for Astrangia conference to Carlos by 15/03
 - MGPR21
-    - [] Finish protein assays for all heat stress samples 
+    - [x] Finish protein assays for all heat stress samples 
+    - [] Update volume data so I can analyze protein data
     - [] Finish chlorophyll assays for all heat stress samples
     - [] Send Matias analyzed data 
 - Lab 
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
+
+## Mar 11
+- QC_WGS [extraction 22]((https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md))
+- Started to look at JG edits to octo_rest MS
+- Carlos and I met twice to discuss which kit and protocol to use for the winter-flounder DNA extractions. We are going to use Zymo Quick-DNA mini-prep plus kit (D4069) and follow the [blue workflow](https://files.zymoresearch.com/protocols/_d4068_d4069_quick-dna_miniprep_plus_kit.pdf) for solid tissue
 
 ## Mar 8 
 - 5 plates for MGPR21 protein assays 
