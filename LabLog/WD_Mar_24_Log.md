@@ -56,16 +56,22 @@ March goals:
         - I double the digestion reaction volume because it did not seem like enough liquid for the size of the fin clippings. 
         - I then added an additional 95uL of Solid Tissue Buffer to 205-00006 because this fin clipping was much larger than the other sample 
         - After 2 hrs 
-        - 1 vol = 
+        - 1 vol = 370 uL for 158_00003 and Blank 
+          1 vol = 470 uL for 205_00006 
 
 | Sample ID | Preserve | Qbit Stock | Qbit Clean | 
 |-----------|----------|------------|------------|
-| 158_00003 | Dried    |            |            |
-| 205_00006 | Dried    |            |            |
-| Blank     | Blank    |            |            | 
+| 158_00003 | Dried    |   146      |     105    |
+| 205_00006 | Dried    |   109      |    83.2    |
+| Blank     | Blank    |    0       |         0  | 
+
+Fin clip before digestion
+![](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/images/RIDEM_WF_WGS_fin.png)
+
+Fin clip after 2.5 hrs of digestion
+![](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/images/RIDEM_WF_WGS_digestion.png)
 
 
-    
 ## Mar 11
 - QC_WGS [extraction 22]((https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md))
 - Started to look at JG edits to octo_rest MS
