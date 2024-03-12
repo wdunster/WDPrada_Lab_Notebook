@@ -51,7 +51,8 @@ March goals:
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
 ## Mar 12 
-- RIDEM_WF_WGS test extraction following [Zymo Quick-DNA Mini-prep Plus kit]()
+- RIDEM_WF_WGS test extraction following [Zymo Quick-DNA Mini-prep Plus kit](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/RIDEM_WF_WGS/RIDEM_WF_WGS_Extraction_Protocol.md)
+
     - Notes: 
         - I double the digestion reaction volume because it did not seem like enough liquid for the size of the fin clippings. 
         - I then added an additional 95uL of Solid Tissue Buffer to 205-00006 because this fin clipping was much larger than the other sample 
