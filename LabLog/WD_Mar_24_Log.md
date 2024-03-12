@@ -50,6 +50,22 @@ March goals:
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
+## Mar 12 
+- RIDEM_WF_WGS test extraction following [Zymo Quick-DNA Mini-prep Plus kit]()
+    - Notes: 
+        - I double the digestion reaction volume because it did not seem like enough liquid for the size of the fin clippings. 
+        - I then added an additional 95uL of Solid Tissue Buffer to 205-00006 because this fin clipping was much larger than the other sample 
+        - After 2 hrs 
+        - 1 vol = 
+
+| Sample ID | Preserve | Qbit Stock | Qbit Clean | 
+|-----------|----------|------------|------------|
+| 158_00003 | Dried    |            |            |
+| 205_00006 | Dried    |            |            |
+| Blank     | Blank    |            |            | 
+
+
+    
 ## Mar 11
 - QC_WGS [extraction 22]((https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_Extraction_Log.md))
 - Started to look at JG edits to octo_rest MS
