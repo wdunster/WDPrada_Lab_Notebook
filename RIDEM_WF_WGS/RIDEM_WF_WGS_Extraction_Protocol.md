@@ -11,9 +11,11 @@ date: "2024-03-12"
 
 
 ## <a name="workflow"></a> **Quick-DNA Miniprep Plus Kit Workflow**
+![](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/images/Zymo_Mini-prep_Plus_Workflow.png)
 
 
 [Zymo Quick-DNA Mini-Prep Plus Kit](https://files.zymoresearch.com/protocols/_d4068_d4069_quick-dna_miniprep_plus_kit.pdf)
+
 
 ## <a name="reagent"></a> **Reagent Preparation**
 - Add 1,040 uL Proteinase  storage buffer to the Proteinase K solid tube. Vortex to mix. Store at -20C after mixing 
