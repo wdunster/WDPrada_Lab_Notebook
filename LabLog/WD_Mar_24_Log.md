@@ -50,6 +50,24 @@ March goals:
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
 
+## Mar 15 
+- RIDEM_WFL second extraction for the remaining samples following [Zymo Quick-DNA Mini-prep Plus kit](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/RIDEM_WF_WGS/RIDEM_WF_WGS_Extraction_Protocol.md)
+
+    - Notes: 
+        - I double the digetion volume so 380uL of molec water and solid tissue buffer
+        - Incubated for 2.5 hrs 
+        - 1 vol = 700 uL for all samples
+
+| Sample ID | Preserve | Qbit Stock | Qbit Clean | 
+|-----------|----------|------------|------------|
+| 205_00005 | Dried    |   394      | 113        |
+| 158_00004 | Dried    |   456      | 206        |
+| 158_00002 | Dried    |   224      | 92.4       |
+| Blank     | Blank    |   0        |         0  | 
+
+## Mar 14
+We did a writing retreat today at Danielle's house. I finished my abstract for TLAP light gradient project and submitted to TL and CP for edits. I then started working through JG edits on the octo_rest manuscript. I started by addressing JG's questions about flexibility and ensuring it is clear that flexibility is not inherently bad but instead can be a pro or a con depending on the energetics of the system. 
+
 ## Mar 12 
 - RIDEM_WF_WGS test extraction following [Zymo Quick-DNA Mini-prep Plus kit](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/RIDEM_WF_WGS/RIDEM_WF_WGS_Extraction_Protocol.md)
 
