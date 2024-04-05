@@ -38,17 +38,61 @@ March goals:
     - [x] Submit draft to Jack
     - [] Submit draft to review for a journal?
 - TLAP
-    - [] Help with modeling 
+    - [x] Help with modeling 
     - [] Continue reading to fill in gaps in the paper 
-    - [] Submit an abstract for Astrangia conference to Carlos by 15/03
+    - [x] Submit an abstract for Astrangia conference to Carlos by 15/03
 - MGPR21
     - [x] Finish protein assays for all heat stress samples 
-    - [] Update volume data so I can analyze protein data
+    - [x] Update volume data so I can analyze protein data
     - [] Finish chlorophyll assays for all heat stress samples
     - [] Send Matias analyzed data 
 - Lab 
     - [] Inventory post PCR freezers
     - [] Create an exit google form for the lab to know where peoples samples are and when they can be disposed of
+
+## Mar 29 
+- JP suggested to run FreeBayes manually on the mt-DNA becuase there is only 1 chromosome and 1 ploidy. He also said that moving forward I can add a FASTA file to the pseudo reference by making it one of the contigs that way you will know that the pseudo reference has snails in it. He also told me that my test2 run worked and the SNPs are there. The error I am recieving is a batch error and can be ignored
+- Sym count with Haley 
+
+## Mar 28 
+- Met with Matias to troubleshoot dDocent protocol -- he wants me to ask JP becuase the program is making a BED file but then not reading it. 
+- Worked to rclone QC_WGS raw reads, but then Jacob suggested gzip as a better way
+
+## Mar 26
+- Prada Meeting -- no notes just continue coding 
+- Prada Lab meeting -- JG presented his disertation proposal 
+- Tried dDocent troubleshooting but was not successful 
+- Mentored Haley 
+    - Lab safety walk through and quiz 
+    - Did one practice sym count 
+
+## Mar 27 
+- Took the day off for grad school interview/tour at Rutgers 
+
+## Mar 22
+- Submitted TLAP Quads abstract to Temperate Coral Conference. I will hopefully be giving a talk :)
+- Fixed porblems in MGPR21 Protein scripts. These will not work until I have all the SA info from Rachel
+- Worked to troubleshoot QC_WGS mt-DNA analysis with dDocent. I cannot find any fixes on the internet or google group so I will have to chat with Matias and maybe Jon to tackle this problem 
+
+## Mar 21
+- MGPR21 protien analysis. All the metadata had to be redone because there were repeat sample names from when a bag was lost and then found later on. I then ran the protein script, but currently the script is not working correctly
+- Edits for TLAP quads abstract  
+
+## Mar 19
+- Started to analyze MGPR21 protein data 
+- Prada weekly meeting: 
+    - QC_WGS
+        - Ask Matias to work through work flow manually instead of using dDocent 
+        - Make BCF file --> use Docent to filter BCF file
+    - WF
+        - Add all data to drive 
+    - Octo_rest 
+        - Pseudo = sp. because we potentially had more than one sps 
+        - Call outplants fragments 
+        - submit to restoration ecology 
+
+## Mar 18
+- QC_WGS troubleshooting running dDocent for mt-DNA
 
 ## Mar 15 
 - RIDEM_WFL second extraction for the remaining samples following [Zymo Quick-DNA Mini-prep Plus kit](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/master/RIDEM_WF_WGS/RIDEM_WF_WGS_Extraction_Protocol.md)
