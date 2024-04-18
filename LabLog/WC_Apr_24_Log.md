@@ -51,6 +51,52 @@ April goals:
     - [] Create exit google form for the lab 
     - [] Continue mentoring Haley 
 
+## Apr 19
+
+## Apr 18 
+- Octo_rest built log-linear models for mortality freq data 
+- Worked on MS edits 
+- Learned to access filtere SNPs for selection in class 
+
+## Apr 16 
+- Octo_rest worked on log-linear analysis 
+- Prada lab meeting
+- Prada weekly meeting 
+    - octo_rest 
+        - Log linear analysis 
+        - Read papers from Howie 
+        - Try and finish by eom 
+    - QC_WGS
+        - Priority is to finish libraries for last 2 locations 
+        - Do analysis in free time 
+        - Ensure all protocols are thorough, up to date, and in drive and github 
+
+## Apr 15
+- QC_WGS dilutions for Ho and Bz samples 
+- Moved most of the boxes back to freezer I. I left Matias's samples in the -80, but returned all illumina kits and mixes to freezer I 
+- Organized autoclaved plastic racks 
+- Octo_rest edits 
+
+## Apr 12
+- QC_WGS ran dDocent on all data 
+- octo_rest MS edits 
+
+## Apr 11
+- Started dilutions for QC_WGS lib, but freezer I started leaking so I stopped and spent the rest of the day moving items to other freezers, cleaning out the post PCR freezer, and autoclaving plate holders 
+
+## Apr 9 
+- Prada weekly meeting
+    - QC_WGS
+        - Lib prep for Bz and Ho samples 
+        - SNP filtering cont w/ whole dataset and mt-DNA as a contig
+        - Review all protocols and ensure they're all up to date 
+    - Octo_rest
+        - continue with edits 
+
+## Apr 8
+- Octo_rest ms edits 
+- SNP filtering tutorial for dDocent 
+
 ## Apr 5
 - Backed up QC_WGS raw reads to gdrive 
 - SNP filtering 
