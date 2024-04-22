@@ -51,7 +51,16 @@ April goals:
     - [] Create exit google form for the lab 
     - [] Continue mentoring Haley 
 
+## Apr 22 
+- QC_WGS library prep for 32 samples 
+- 
+
 ## Apr 19
+- QC_WGS library prep for 32 samples (3x Bz and 1x Ho)
+- Octo_rest reading
+- Lab 
+    - Emptied BioHazard bin 
+    - Mentored Haley 
 
 ## Apr 18 
 - Octo_rest built log-linear models for mortality freq data 
