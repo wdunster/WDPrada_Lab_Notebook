@@ -51,9 +51,31 @@ April goals:
     - [] Create exit google form for the lab 
     - [] Continue mentoring Haley 
 
+## Apr 26 
+- Lib prep for FL redo w/ increased [DNA]. I taught Juliane how to run through this protocol 
+- Put all QC_WGS resources into the one folder 
+- Worked on TLAP lab meeting/conference presentation 
+
+## Apr 25 
+- Cut PVC pipeing for JG mesophotic octocoral work 
+- practiced SNP filtering 
+
+## Apr 23
+- Prada meeting 
+     - QC_WGS
+        - Lib ready for next week 
+        - Redo FL samples with increased [DNA] at 1 or 1.5ng/uL 
+     - Octo_rest MS
+        - loglm() should step just like a linear model 
+    - Mentoring 
+        - Confirm w/ HA how many hrs to work next semester 
+        - Try and push sym counts out by end of month 
+- Prada lab meeting - discussed papers about MPAs and connectivity 
+- TL meeting to discuss loglm() and mentoring HA
+
 ## Apr 22 
 - QC_WGS library prep for 32 samples 
-- 
+- Read lab meeting papers from JG
 
 ## Apr 19
 - QC_WGS library prep for 32 samples (3x Bz and 1x Ho)
