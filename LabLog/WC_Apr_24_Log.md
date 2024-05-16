@@ -51,6 +51,15 @@ April goals:
     - [] Create exit google form for the lab 
     - [] Continue mentoring Haley 
 
+## Apr 30 
+- Labeled tubes for Carlos 
+- Lab meeting 
+- Prada weekly meeting 
+
+## Apr 29 
+- Lab meeting presentation
+- octo_rest loglm() 
+
 ## Apr 26 
 - Lib prep for FL redo w/ increased [DNA]. I taught Juliane how to run through this protocol 
 - Put all QC_WGS resources into the one folder 
