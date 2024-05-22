@@ -43,6 +43,19 @@ May goals:
 
 ## <a name="log"></a> **Daily Logs**
 
+## May 22 
+- Eflx-trans-WGS libraries. I trained Juliane in how to do the library prep. We did 11 samples and ended with 5/11 successfull libraries. We started with the original DNA, quantified, diluted, and then did the lib prep. I chatted with Carlos and the plan movign forward is to clean the original DNA to try and improve amplification quality. The deep libraries seem to not work as well as the shallow libraries
+- - ![](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/main/images/Eflex-trans-WGS_Lib4.png)
+
+## May 21
+TLAP Quads presentation for temperate coral conference. I finished the slides and wrote blurbs for all of the slides.
+
+## May 20
+- TLAP Quads presentation. I had a meeting with TL today at GSO where we went over all of my slides, decided on which graphs to use, and how to frame the story of the data for the talk. I'm getting really exctied for the presentation  
+
+## May 17 
+Personal day 
+
 ## May 16 
 - Eflex-trans-WGS lib prep for 16 samples 
 - ![](https://github.com/wdunster/WDPrada_Lab_Notebook/blob/main/images/Eflex-trans-WGS_Lib3.png)
